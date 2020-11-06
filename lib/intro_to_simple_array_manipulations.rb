@@ -14,7 +14,7 @@ def using_pop(array, string)
   continents.pop
 end
 
-def pop_with_args
+def pop_with_args(string)
   dogs = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   small_breeds = dogs.pop
 end
