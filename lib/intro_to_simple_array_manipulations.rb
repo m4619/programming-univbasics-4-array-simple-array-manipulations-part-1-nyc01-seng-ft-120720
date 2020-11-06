@@ -7,5 +7,8 @@ end
 def using_unshift(array, string)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.unshift("Staten Island")
-  binding.pry
+end
+
+def using_pop(array, string)
+  
 end
