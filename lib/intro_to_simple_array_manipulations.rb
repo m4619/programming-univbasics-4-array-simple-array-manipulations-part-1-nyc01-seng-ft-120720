@@ -15,5 +15,5 @@ def using_pop(array, string)
 end
 
 def pop_with_args
-  
+  dogs = 
 end
