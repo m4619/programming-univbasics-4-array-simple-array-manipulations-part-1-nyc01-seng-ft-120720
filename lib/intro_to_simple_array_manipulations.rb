@@ -16,5 +16,5 @@ end
 
 def pop_with_args(string)
   dogs = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  dogs.pop(2)
+  samll_breed = dogs.pop("Chihuahua", "Shiba Inu")
 end
