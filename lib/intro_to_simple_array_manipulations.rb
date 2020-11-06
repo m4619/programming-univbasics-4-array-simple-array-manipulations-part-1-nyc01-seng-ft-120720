@@ -14,7 +14,7 @@ def using_pop(array)
   @continents.pop 
 end
 
-def pop_with_args(string)
+def pop_with_args(array)
   dogs = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  dogs.pop("Chihuahua", "Shiba Inu")
+  @dogs.pop(2)
 end
