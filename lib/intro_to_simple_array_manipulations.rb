@@ -19,7 +19,7 @@ def pop_with_args(array)
   small_dogs = dog_breeds.pop(2) 
 end
 
-def using_unshift(array)
+def using_shift(array)
   my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   im_so_over_this_city = my_favorite_cities.shift
 end
