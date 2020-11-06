@@ -12,7 +12,7 @@ end
 def using_pop(array, string)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
     delete_string = "Antarctica"
-  continents.pop(delete_string)
+  continents.pop
 end
 
 def pop_with_args(string)
