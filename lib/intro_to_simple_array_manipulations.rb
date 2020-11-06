@@ -11,5 +11,9 @@ end
 
 def using_pop(array, string)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  binding.pry
+  continents.pop
+end
+
+def pop_with_args
+  
 end
