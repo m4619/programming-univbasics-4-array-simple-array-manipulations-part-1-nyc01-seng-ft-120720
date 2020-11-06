@@ -26,5 +26,5 @@ end
 
 def shift_with_args(array)
   ice_cream = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-  @ice_cream.shift(2)
+  @ice_cream_brands.shift(2)
 end
